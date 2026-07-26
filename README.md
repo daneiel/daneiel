@@ -67,7 +67,7 @@ codificação, testes, implantação, documentação e sustentação.
 
 ### Fora do terminal
 
-Toco **baixo e guitarra**. Tenho raiz no **Ceará** e acredito que conhecimento
+Toco **baixo e guitarra**. Acredito que conhecimento
 aberto é o que faz a coisa toda valer a pena.
 
 ### Onde me achar
