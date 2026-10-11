@@ -27,6 +27,18 @@ codificação, testes, implantação, documentação e sustentação.
 - **Infraestrutura e automação** — Docker, Kubernetes, CloudFormation, Jenkins
 - **Liderança técnica** — code review, remoção de bloqueios, estimativas, gestão de crise, desenvolvimento de carreira
 
+### Projetos que mantenho
+
+Além do trabalho com backend e liderança técnica, desenvolvo projetos próprios para explorar IA, ferramentas de desenvolvimento e operação de sistemas.
+
+| Projeto | O que estou construindo | Código e demonstração |
+| --- | --- | --- |
+| **Brabo** | Meu principal projeto pessoal: coordenação de agentes de IA no desenvolvimento de software, com integração Git, controle de permissões e registro das ações. | [Código](https://github.com/daneiel/brabo) · [Documentação](https://daneiel.github.io/brabo/) |
+| **HUD** | Interface de terminal da ViraLabs para reunir notas, Vault, métricas e agentes. A arquitetura atual é em Rust; a prévia local tem limites de validação documentados. | [Código e estado atual](https://github.com/viralabs-dev/hud) |
+| **Mudarro** | CLI em Go que detecta a stack e gera menus operacionais. Scan e geração funcionam offline, sem depender de IA. | [Código e demonstrações](https://github.com/viralabs-dev/mudarro) |
+
+Na [ViraLabs](https://github.com/viralabs-dev), também cuido da infraestrutura, das pipelines e da documentação dos projetos. Os repositórios indicam o que está disponível, o que está em desenvolvimento e os limites conhecidos.
+
 ### Trajetória
 
 | Período | Papel | Onde |
