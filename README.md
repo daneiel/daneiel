@@ -2,9 +2,9 @@
 
 # olá, eu sou o Dani
 
-**Desenvolvedor Full Stack · Liderança técnica**
+**Desenvolvedor de Software | Backend e Liderança Técnica**
 
-Backend, arquitetura em nuvem e o trabalho invisível de fazer time e sistema não cair
+Java, Node.js, TypeScript, Python e AWS. Projetos próprios com agentes de IA e ferramentas para desenvolvedores.
 
 </div>
 
@@ -12,20 +12,19 @@ Backend, arquitetura em nuvem e o trabalho invisível de fazer time e sistema n�
 
 ### O que eu faço
 
-Trajetória construída em fintechs, passando por **desenvolvimento pleno, sênior,
-tech lead e especialista em TI** — o que na prática significa ter escrito o
-código, desenhado a arquitetura e, depois, sido responsável pelas pessoas que
-fazem as duas coisas.
+Tenho experiência em fintechs e tecnologia para serviços financeiros, com passagens por desenvolvimento pleno e sênior, Tech Lead e especialista em TI. Trabalho com backend, arquitetura de sistemas e liderança técnica.
 
 Atuo em todo o ciclo de vida: levantamento de requisitos, planejamento, design,
 codificação, testes, implantação, documentação e sustentação.
 
 - **Backend e APIs REST** em Java, Node/TypeScript e Python
-- **Arquitetura AWS** — Lambda, API Gateway, S3, EC2, Batch, SQS, DynamoDB, RDS
+- **Arquitetura AWS**: Lambda, API Gateway, S3, EC2, Batch, SQS, DynamoDB, RDS
 - **Modelagem e administração de dados** com foco em integridade, performance e segurança
-- **Análise de sistemas** — use cases, diagramas UML, modelagem de banco
-- **Infraestrutura e automação** — Docker, Kubernetes, CloudFormation, Jenkins
-- **Liderança técnica** — code review, remoção de bloqueios, estimativas, gestão de crise, desenvolvimento de carreira
+- **Análise de sistemas**: use cases, diagramas UML, modelagem de banco
+- **Infraestrutura e automação**: Docker, Kubernetes, CloudFormation, Jenkins
+- **Liderança técnica**: code review, remoção de bloqueios, estimativas, gestão de crise, desenvolvimento de carreira
+
+Minha experiência se conecta a posições de desenvolvimento backend sênior, Tech Lead e engenharia de software com AWS. Nos projetos próprios, também trabalho com integração de agentes de IA e ferramentas para desenvolvedores.
 
 ### Projetos que mantenho
 
@@ -37,17 +36,19 @@ Além do trabalho com backend e liderança técnica, desenvolvo projetos própri
 | **HUD** | Interface de terminal da ViraLabs para reunir notas, Vault, métricas e agentes. A arquitetura atual é em Rust; a prévia local tem limites de validação documentados. | [Código e estado atual](https://github.com/viralabs-dev/hud) |
 | **Mudarro** | CLI em Go que detecta a stack e gera menus operacionais. Scan e geração funcionam offline, sem depender de IA. | [Código e demonstrações](https://github.com/viralabs-dev/mudarro) |
 
+| **ViraPets** | Plugin para o Claude Code com pets que reagem aos eventos da sessão. Hooks em TypeScript, pipeline de imagens em Python e galeria offline para visualizar e exportar animações. | [Código e demonstrações](https://github.com/viralabs-dev/virapets) |
+
 Na [ViraLabs](https://github.com/viralabs-dev), também cuido da infraestrutura, das pipelines e da documentação dos projetos. Os repositórios indicam o que está disponível, o que está em desenvolvimento e os limites conhecidos.
 
 ### Trajetória
 
 | Período | Papel | Onde |
 |---|---|---|
-| 2026 — atual | Desenvolvedor Full Stack | Smart Sky |
-| 2022 — 2025 | Especialista em TI | TecBan |
-| 2020 — 2022 | Tech Lead | Dock |
+| 2026 a atual | Desenvolvedor Full Stack | Smart Sky |
+| 2022 a 2025 | Especialista em TI | TecBan |
+| 2020 a 2022 | Tech Lead | Dock |
 | 2020 | Desenvolvedor Sênior | Dock |
-| 2018 — 2020 | Desenvolvedor Pleno | Dock |
+| 2018 a 2020 | Desenvolvedor Pleno | Dock |
 
 ### Stack
 
