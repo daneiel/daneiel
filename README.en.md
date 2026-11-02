@@ -93,5 +93,4 @@ knowledge is what makes the whole thing worth it.
 
 ### Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2E3D?style=flat-square&logo=linkedin&logoColor=F5EDE0)](https://www.linkedin.com/in/daneesouza/)
 [![Email](https://img.shields.io/badge/Email-C4552D?style=flat-square&logo=gmail&logoColor=F5EDE0)](mailto:daneoliveira.s@gmail.com)

@@ -93,5 +93,4 @@ Java、Node.js、TypeScript、Python 和 AWS。个人项目专注于 AI 智能�
 
 ### 联系我
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2E3D?style=flat-square&logo=linkedin&logoColor=F5EDE0)](https://www.linkedin.com/in/daneesouza/)
 [![Email](https://img.shields.io/badge/Email-C4552D?style=flat-square&logo=gmail&logoColor=F5EDE0)](mailto:daneoliveira.s@gmail.com)
