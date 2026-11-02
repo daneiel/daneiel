@@ -1,5 +1,7 @@
 <div align="center">
 
+**Português** · [English](README.en.md) · [中文](README.zh-CN.md) · [Русский](README.ru.md)
+
 # olá, eu sou o Dani
 
 **Desenvolvedor de Software | Backend e Liderança Técnica**
@@ -30,15 +32,21 @@ Minha experiência se conecta a posições de desenvolvimento backend sênior, T
 
 Além do trabalho com backend e liderança técnica, desenvolvo projetos próprios para explorar IA, ferramentas de desenvolvimento e operação de sistemas.
 
-| Projeto | O que estou construindo | Código e demonstração |
-| --- | --- | --- |
-| **Brabo** | Meu principal projeto pessoal: coordenação de agentes de IA no desenvolvimento de software, com integração Git, controle de permissões e registro das ações. | [Código](https://github.com/daneiel/brabo) · [Documentação](https://daneiel.github.io/brabo/) |
-| **HUD** | Interface de terminal da ViraLabs para reunir notas, Vault, métricas e agentes. A arquitetura atual é em Rust; a prévia local tem limites de validação documentados. | [Código e estado atual](https://github.com/viralabs-dev/hud) |
-| **Mudarro** | CLI em Go que detecta a stack e gera menus operacionais. Scan e geração funcionam offline, sem depender de IA. | [Código e demonstrações](https://github.com/viralabs-dev/mudarro) |
+#### Projeto pessoal
 
-| **ViraPets** | Plugin para o Claude Code com pets que reagem aos eventos da sessão. Hooks em TypeScript, pipeline de imagens em Python e galeria offline para visualizar e exportar animações. | [Código e demonstrações](https://github.com/viralabs-dev/virapets) |
+| Projeto | O que estou construindo | Estado | Links |
+| --- | --- | --- | --- |
+| **Brabo** | Meu principal projeto pessoal: um time de agentes de IA conduz a aplicação do brief ao deploy, com integração Git, controle de permissões, registro das ações e a autoridade final sempre com a pessoa. | v7.0.0; interface migrando para shadcn/ui | [Código](https://github.com/daneiel/brabo) · [Documentação](https://daneiel.github.io/brabo/) |
 
-Na [ViraLabs](https://github.com/viralabs-dev), também cuido da infraestrutura, das pipelines e da documentação dos projetos. Os repositórios indicam o que está disponível, o que está em desenvolvimento e os limites conhecidos.
+#### ViraLabs
+
+Na [ViraLabs](https://github.com/viralabs-dev) mantenho ferramentas para desenvolvedores e cuido da infraestrutura, das pipelines e da documentação. Os repositórios indicam o que está disponível, o que está em desenvolvimento e os limites conhecidos.
+
+| Projeto | O que é | Estado | Links |
+| --- | --- | --- | --- |
+| **ViraPets** | Plugin para o Claude Code com pets em pixel art que reagem aos eventos da sessão. Hooks em TypeScript, pipeline de imagens em Python e o **ViraPets Studio**, criador online e offline de mascotes (desenho procedural, foto local em pixel art e figurinhas). | Studio publicado | [Código](https://github.com/viralabs-dev/virapets) · [Studio](https://daneiel.github.io/virapets/) |
+| **HUD** | Interface de terminal para reunir notas, Vault, métricas e agentes de IA, com layouts customizáveis. Arquitetura em Rust. | v0.18.0; prévia local | [Código](https://github.com/viralabs-dev/hud) |
+| **Mudarro** | CLI em Go que detecta a stack do projeto e gera menus e comandos operacionais. Configuração declarativa, geração offline e sem IA. | v0.2.0 | [Código e demonstrações](https://github.com/viralabs-dev/mudarro) |
 
 ### Trajetória
 
