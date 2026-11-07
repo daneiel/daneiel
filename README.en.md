@@ -32,18 +32,13 @@ My experience fits senior backend, Tech Lead and AWS software engineering roles.
 
 Besides backend and technical leadership work, I build my own projects to explore AI, developer tooling and systems operation.
 
-#### Personal project
-
-| Project | What I'm building | Status | Links |
-| --- | --- | --- | --- |
-| **Brabo** | My main personal project: a team of AI agents takes an application from brief to deploy, with Git integration, permission control, action logging and the final say always with the person. | v7.0.0; UI moving to shadcn/ui | [Code](https://github.com/daneiel/brabo) · [Docs](https://daneiel.github.io/brabo/) (pt-BR) |
-
 #### ViraLabs
 
 At [ViraLabs](https://github.com/viralabs-dev) I maintain developer tools and take care of infrastructure, pipelines and documentation. Each repository states what is available, what is in progress and the known limits.
 
 | Project | What it is | Status | Links |
 | --- | --- | --- | --- |
+| **Brabo** | A team of AI agents takes an application from brief to deploy, with Git integration, permission control, action logging and the final say always with the person. | v2.0.0; code split into 10 repositories (api, engine, web, runner, broker, contracts, infra, ci, qa) | [Code](https://github.com/viralabs-dev/brabo) · [Docs](https://viralabs-dev.github.io/brabo/prd/) (pt-BR) |
 | **ViraPets** | Claude Code plugin with pixel-art pets that react to session events. TypeScript hooks, a Python image pipeline and **ViraPets Studio**, an online and offline mascot creator (procedural drawing, local photo to pixel art, and stickers). | Studio published | [Code](https://github.com/viralabs-dev/virapets) · [Studio](https://daneiel.github.io/virapets/) |
 | **HUD** | Terminal interface that brings together notes, Vault, metrics and AI agents, with customizable layouts. Built in Rust. | v0.18.0; local preview | [Code](https://github.com/viralabs-dev/hud) |
 | **Mudarro** | Go CLI that detects a project's stack and generates operational menus and commands. Declarative config, offline generation, no AI required. | v0.2.0 | [Code and demos](https://github.com/viralabs-dev/mudarro) |
@@ -94,3 +89,4 @@ knowledge is what makes the whole thing worth it.
 ### Find me
 
 [![Email](https://img.shields.io/badge/Email-C4552D?style=flat-square&logo=gmail&logoColor=F5EDE0)](mailto:daneoliveira.s@gmail.com)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-buy%20me%20a%20coffee-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/daneiel)

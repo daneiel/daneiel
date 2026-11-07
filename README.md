@@ -32,18 +32,13 @@ Minha experiência se conecta a posições de desenvolvimento backend sênior, T
 
 Além do trabalho com backend e liderança técnica, desenvolvo projetos próprios para explorar IA, ferramentas de desenvolvimento e operação de sistemas.
 
-#### Projeto pessoal
-
-| Projeto | O que estou construindo | Estado | Links |
-| --- | --- | --- | --- |
-| **Brabo** | Meu principal projeto pessoal: um time de agentes de IA conduz a aplicação do brief ao deploy, com integração Git, controle de permissões, registro das ações e a autoridade final sempre com a pessoa. | v7.0.0; interface migrando para shadcn/ui | [Código](https://github.com/daneiel/brabo) · [Documentação](https://daneiel.github.io/brabo/) |
-
 #### ViraLabs
 
 Na [ViraLabs](https://github.com/viralabs-dev) mantenho ferramentas para desenvolvedores e cuido da infraestrutura, das pipelines e da documentação. Os repositórios indicam o que está disponível, o que está em desenvolvimento e os limites conhecidos.
 
 | Projeto | O que é | Estado | Links |
 | --- | --- | --- | --- |
+| **Brabo** | Um time de agentes de IA conduz a aplicação do brief ao deploy, com integração Git, controle de permissões, registro das ações e a autoridade final sempre com a pessoa. | v2.0.0; código em 10 repositórios (api, engine, web, runner, broker, contracts, infra, ci, qa) | [Código](https://github.com/viralabs-dev/brabo) · [Documentação](https://viralabs-dev.github.io/brabo/prd/) |
 | **ViraPets** | Plugin para o Claude Code com pets em pixel art que reagem aos eventos da sessão. Hooks em TypeScript, pipeline de imagens em Python e o **ViraPets Studio**, criador online e offline de mascotes (desenho procedural, foto local em pixel art e figurinhas). | Studio publicado | [Código](https://github.com/viralabs-dev/virapets) · [Studio](https://daneiel.github.io/virapets/) |
 | **HUD** | Interface de terminal para reunir notas, Vault, métricas e agentes de IA, com layouts customizáveis. Arquitetura em Rust. | v0.18.0; prévia local | [Código](https://github.com/viralabs-dev/hud) |
 | **Mudarro** | CLI em Go que detecta a stack do projeto e gera menus e comandos operacionais. Configuração declarativa, geração offline e sem IA. | v0.2.0 | [Código e demonstrações](https://github.com/viralabs-dev/mudarro) |
@@ -94,3 +89,4 @@ aberto é o que faz a coisa toda valer a pena.
 ### Onde me achar
 
 [![Email](https://img.shields.io/badge/Email-C4552D?style=flat-square&logo=gmail&logoColor=F5EDE0)](mailto:daneoliveira.s@gmail.com)
+[![Apoie no Ko-fi](https://img.shields.io/badge/Ko--fi-me%20pague%20um%20caf%C3%A9-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/daneiel)

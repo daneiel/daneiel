@@ -32,18 +32,13 @@ Java、Node.js、TypeScript、Python 和 AWS。个人项目专注于 AI 智能�
 
 除了后端和技术领导工作之外，我还开发个人项目，探索 AI、开发工具和系统运维。
 
-#### 个人项目
-
-| 项目 | 我在构建什么 | 状态 | 链接 |
-| --- | --- | --- | --- |
-| **Brabo** | 我最主要的个人项目：由一组 AI 智能体把应用从需求简报一路推进到部署，集成 Git、权限控制和操作记录，最终决定权始终在人手中。 | v7.0.0；界面正迁移到 shadcn/ui | [代码](https://github.com/daneiel/brabo) · [文档](https://daneiel.github.io/brabo/)（葡萄牙语） |
-
 #### ViraLabs
 
 在 [ViraLabs](https://github.com/viralabs-dev)，我维护面向开发者的工具，并负责基础设施、流水线和文档。每个仓库都会说明哪些功能已可用、哪些仍在开发中以及已知的限制。
 
 | 项目 | 简介 | 状态 | 链接 |
 | --- | --- | --- | --- |
+| **Brabo** | 由一组 AI 智能体把应用从需求简报一路推进到部署，集成 Git、权限控制和操作记录，最终决定权始终在人手中。 | v2.0.0；代码拆分为 10 个仓库（api、engine、web、runner、broker、contracts、infra、ci、qa） | [代码](https://github.com/viralabs-dev/brabo) · [文档](https://viralabs-dev.github.io/brabo/prd/)（葡萄牙语） |
 | **ViraPets** | Claude Code 插件，像素风宠物会对会话事件做出反应。TypeScript 钩子、Python 图像流水线，以及 **ViraPets Studio**：可在线也可离线使用的吉祥物创作工具（程序化绘制、本地照片转像素画、表情贴纸）。 | Studio 已发布 | [代码](https://github.com/viralabs-dev/virapets) · [Studio](https://daneiel.github.io/virapets/) |
 | **HUD** | 终端界面，汇集笔记、Vault、指标和 AI 智能体，布局可自定义。使用 Rust 构建。 | v0.18.0；本地预览版 | [代码](https://github.com/viralabs-dev/hud) |
 | **Mudarro** | 用 Go 编写的 CLI，自动识别项目技术栈并生成运维菜单和命令。声明式配置，离线生成，无需 AI。 | v0.2.0 | [代码与演示](https://github.com/viralabs-dev/mudarro) |
@@ -94,3 +89,4 @@ Java、Node.js、TypeScript、Python 和 AWS。个人项目专注于 AI 智能�
 ### 联系我
 
 [![Email](https://img.shields.io/badge/Email-C4552D?style=flat-square&logo=gmail&logoColor=F5EDE0)](mailto:daneoliveira.s@gmail.com)
+[![在 Ko-fi 支持我](https://img.shields.io/badge/Ko--fi-%E8%AF%B7%E6%88%91%E5%96%9D%E5%92%96%E5%95%A1-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/daneiel)
